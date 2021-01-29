@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello! 
+
+I'm David. I'm currently working at Tektronix, adding features to and squashing bugs in embedded applications in Windows and Linux, primarily using C++ and Qt. I am also in the long process of building a banjo.
+
+In my free time, I enjoy spending time with my family, learning web development, playing music, hiking, and building things out of wood.
+
+Check out my pinned repositories for some samples of my personal projects.
 
 <!--
 **hiteda/hiteda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
